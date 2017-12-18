@@ -1,0 +1,25 @@
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+h1,h2,h3,h4,h5{
+  font-size: 25px;
+  font-family: ariel;
+  Margin-left: 10px;
+}
+#summary{
+  font-size: 20px;
+  Font-Family: fantasy;
+}
+p{
+  font-size: 20px;
+}
+.details{
+  text-decoration: underline;
+}
+li{
+  font-size: 15px;
+  font-family: ariel;
+  Margin-left: 200px;
+  text-style: bold;
+}
